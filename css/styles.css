@@ -853,7 +853,9 @@ color: #8e8f99;
 }
 
 .modal-check:checked + .form-label span{
-background: #4d5ae5;
+background-color:#404bbf;
+border: none;
+fill: #F4F4FD;
 }
 
 .span {
